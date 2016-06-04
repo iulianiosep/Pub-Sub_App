@@ -1,0 +1,249 @@
+---Publications---
+
+{(id,377);(company, Yahoo);(value,=,54.609821);(variation,<=,9.689627);(date,4.10.2038)}
+{(id,378);(company, Zeiss);(value,=,42.332224);(variation,<=,69.359416);(date,19.12.2022)}
+{(id,379);(company, Samsung);(value,=,84.514908);(variation,=,42.106388);(date,25.4.2032)}
+{(id,380);(company, Bing);(value,>=,0.241096);(variation,<=,86.413160);(date,12.4.2037)}
+{(id,381);(company, Intel);(value,<=,70.110172);(variation,=,89.349040);(date,30.4.2013)}
+{(id,382);(company, Nokia);(value,>=,49.897763);(variation,>=,89.632862);(date,3.8.2002)}
+{(id,383);(company, VW);(value,>=,71.739860);(variation,>,88.186285);(date,20.5.2002)}
+{(id,384);(company, Cosmote);(value,<=,32.789087);(variation,>,46.162297);(date,28.9.2047)}
+{(id,385);(company, Facebook);(value,>=,71.413312);(variation,>=,70.513016);(date,6.3.2002)}
+{(id,386);(company, Telekom);(value,<=,30.832850);(variation,=,87.020478);(date,7.8.2013)}
+{(id,387);(company, AOL);(value,=,10.327464);(variation,<=,0.845363);(date,2.8.2009)}
+{(id,388);(company, Orange);(value,>=,3.878903);(variation,>=,44.584490);(date,23.5.2012)}
+{(id,389);(company, Orange);(value,>,26.361888);(variation,>=,13.809626);(date,9.11.2011)}
+{(id,390);(company, SAP);(value,>=,27.204199);(variation,>=,90.112003);(date,22.11.2029)}
+{(id,391);(company, Telekom);(value,<=,91.567736);(variation,<=,51.652577);(date,12.9.2004)}
+{(id,392);(company, Sharp);(value,<=,29.013947);(variation,<=,71.211890);(date,31.5.2029)}
+{(id,393);(company, Electionics Arts);(value,=,49.681082);(variation,=,1.730399);(date,15.5.2042)}
+{(id,394);(company, Cosmote);(value,<=,27.948851);(variation,=,49.369793);(date,4.1.2017)}
+{(id,395);(company, Asus);(value,>,53.614917);(variation,=,34.034242);(date,19.2.2039)}
+{(id,396);(company, Acer);(value,>=,70.574053);(variation,=,37.440107);(date,16.9.2040)}
+{(id,397);(company, SwissArmy);(value,=,2.966399);(variation,<=,38.651692);(date,19.9.2038)}
+{(id,398);(company, Ferrari);(value,<=,68.883328);(variation,>=,37.134922);(date,17.12.2044)}
+{(id,399);(company, Amazon);(value,=,81.508835);(variation,<=,63.301492);(date,13.10.2005)}
+{(id,400);(company, Acer);(value,=,37.806330);(variation,=,76.546525);(date,22.8.2031)}
+{(id,401);(company, Nokia);(value,=,94.692831);(variation,=,50.810266);(date,4.6.2044)}
+{(id,402);(company, Ferrari);(value,=,32.697531);(variation,<=,47.621082);(date,23.10.2017)}
+{(id,403);(company, Allview);(value,<=,7.150487);(variation,=,76.635029);(date,3.7.2045)}
+{(id,404);(company, Ubisoft);(value,=,86.843471);(variation,=,43.681143);(date,22.6.2035)}
+{(id,405);(company, Mercedes);(value,=,80.199591);(variation,<=,86.333811);(date,4.1.2046)}
+{(id,406);(company, Microsoft);(value,=,48.957793);(variation,=,96.917631);(date,4.7.2042)}
+{(id,407);(company, SwissArmy);(value,>=,9.329508);(variation,<=,33.088168);(date,19.1.2040)}
+{(id,408);(company, Nvidia);(value,>,20.685446);(variation,=,15.875729);(date,6.5.2028)}
+{(id,409);(company, Facebook);(value,=,61.714530);(variation,<=,15.207373);(date,16.9.2026)}
+{(id,410);(company, Ubisoft);(value,>=,94.106876);(variation,=,22.983489);(date,25.4.2018)}
+{(id,411);(company, Facebook);(value,>,13.705863);(variation,<=,13.602100);(date,19.6.2021)}
+{(id,412);(company, HP);(value,>,89.214759);(variation,=,92.028565);(date,20.6.2033)}
+{(id,413);(company, Orange);(value,=,88.335826);(variation,>,29.309977);(date,20.7.2013)}
+{(id,414);(company, HP);(value,>=,91.454817);(variation,>,85.662404);(date,14.9.2042)}
+{(id,415);(company, AMD);(value,=,92.812891);(variation,>,20.981475);(date,11.3.2015)}
+{(id,416);(company, Microsoft);(value,=,89.181188);(variation,<=,92.913602);(date,3.12.2019)}
+{(id,417);(company, Amazon);(value,>,56.028932);(variation,>,42.384106);(date,21.11.2029)}
+{(id,418);(company, Yahoo);(value,>,11.191137);(variation,>,66.667684);(date,18.9.2002)}
+{(id,419);(company, Microsoft);(value,=,66.057314);(variation,>,79.909665);(date,25.2.2043)}
+{(id,420);(company, Ferrari);(value,=,64.210944);(variation,>,61.183508);(date,9.1.2049)}
+{(id,421);(company, Yahoo);(value,>,7.641835);(variation,<=,90.050966);(date,11.12.2043)}
+{(id,422);(company, Ubisoft);(value,>,70.390942);(variation,=,69.588305);(date,5.4.2037)}
+{(id,423);(company, Blizzard);(value,=,99.725333);(variation,>=,36.936552);(date,15.3.2019)}
+{(id,424);(company, Blizzard);(value,<=,4.809717);(variation,=,61.366619);(date,19.1.2030)}
+{(id,425);(company, Microsoft);(value,>=,32.902005);(variation,>=,29.801325);(date,2.2.2018)}
+{(id,426);(company, Ferrari);(value,=,32.984405);(variation,=,19.882809);(date,28.4.2026)}
+{(id,427);(company, SAP);(value,=,6.970428);(variation,>,60.505997);(date,22.2.2005)}
+{(id,428);(company, Ubisoft);(value,<=,48.356578);(variation,>=,79.863887);(date,3.5.2017)}
+{(id,429);(company, Samsung);(value,<=,68.401135);(variation,<=,41.010773);(date,30.6.2014)}
+{(id,430);(company, SAP);(value,>,9.793390);(variation,<=,64.900662);(date,7.6.2047)}
+{(id,431);(company, Siemens);(value,=,47.837764);(variation,>=,40.916166);(date,11.6.2008)}
+{(id,432);(company, LG);(value,>=,79.103977);(variation,=,24.948881);(date,13.9.2010)}
+{(id,433);(company, Telekom);(value,>,97.613453);(variation,>,24.921415);(date,22.8.2035)}
+{(id,434);(company, Zeiss);(value,=,58.510086);(variation,>,73.845637);(date,3.9.2020)}
+{(id,435);(company, Orange);(value,=,29.227577);(variation,=,90.356151);(date,1.7.2031)}
+{(id,436);(company, Microsoft);(value,=,28.174688);(variation,>,26.776940);(date,30.8.2003)}
+{(id,437);(company, Asus);(value,>=,50.880459);(variation,>,4.654073);(date,22.3.2030)}
+{(id,438);(company, Acer);(value,>,83.690909);(variation,=,37.809381);(date,7.11.2014)}
+{(id,439);(company, Yahoo);(value,>,4.928739);(variation,=,42.881558);(date,27.6.2019)}
+{(id,440);(company, Asus);(value,<=,73.577074);(variation,<=,37.372967);(date,22.11.2036)}
+{(id,441);(company, SwissArmy);(value,=,5.426191);(variation,<=,25.205237);(date,2.4.2044)}
+{(id,442);(company, Microsoft);(value,=,36.780908);(variation,>=,69.762261);(date,28.4.2041)}
+{(id,443);(company, LG);(value,>=,75.603504);(variation,>=,54.423658);(date,24.3.2015)}
+{(id,444);(company, Intel);(value,>,40.186773);(variation,=,30.637532);(date,10.9.2044)}
+{(id,445);(company, Mercedes);(value,>=,85.354167);(variation,<=,53.444014);(date,13.11.2017)}
+{(id,446);(company, Mercedes);(value,>=,16.098514);(variation,<=,4.531999);(date,7.1.2008)}
+{(id,447);(company, VW);(value,<=,88.775292);(variation,>,2.789392);(date,10.1.2009)}
+{(id,448);(company, Asus);(value,=,99.758904);(variation,=,2.343822);(date,3.7.2006)}
+{(id,449);(company, LG);(value,=,61.629078);(variation,=,78.112125);(date,4.7.2036)}
+{(id,450);(company, Asus);(value,>=,66.832484);(variation,>,98.843348);(date,22.2.2020)}
+{(id,451);(company, Ferrari);(value,=,38.859218);(variation,>=,87.667470);(date,20.9.2033)}
+{(id,452);(company, Yahoo);(value,>=,70.918912);(variation,>,70.152898);(date,2.12.2000)}
+{(id,453);(company, Siemens);(value,>=,52.098148);(variation,<=,9.833064);(date,8.4.2031)}
+{(id,454);(company, Ferrari);(value,=,81.044954);(variation,>=,31.275369);(date,22.2.2024)}
+{(id,455);(company, Orange);(value,>,67.143773);(variation,>,30.607013);(date,20.10.2015)}
+{(id,456);(company, VW);(value,>=,19.168676);(variation,>,73.583178);(date,25.1.2047)}
+{(id,457);(company, SAP);(value,=,21.481979);(variation,=,81.105991);(date,12.11.2028)}
+{(id,458);(company, Yahoo);(value,=,97.680593);(variation,<=,2.298044);(date,7.10.2014)}
+{(id,459);(company, Bing);(value,<=,61.781671);(variation,>=,75.048067);(date,24.5.2029)}
+{(id,460);(company, Intel);(value,>,56.892605);(variation,=,74.034852);(date,20.2.2012)}
+{(id,461);(company, Ferrari);(value,<=,81.383709);(variation,>=,46.290475);(date,29.12.2049)}
+{(id,462);(company, Siemens);(value,<=,2.551347);(variation,<=,34.250923);(date,25.9.2029)}
+{(id,463);(company, SwissArmy);(value,=,57.808161);(variation,=,86.294137);(date,5.1.2045)}
+{(id,464);(company, Facebook);(value,>,43.336283);(variation,=,54.786828);(date,16.10.2007)}
+{(id,465);(company, Mercedes);(value,>=,90.267647);(variation,>=,81.643117);(date,25.10.2009)}
+{(id,466);(company, Acer);(value,<=,28.348643);(variation,=,71.346171);(date,24.8.2003)}
+{(id,467);(company, Zeiss);(value,>=,37.134922);(variation,=,51.527451);(date,20.7.2026)}
+{(id,468);(company, Nokia);(value,=,84.630879);(variation,<=,20.993683);(date,30.5.2041)}
+{(id,469);(company, Electionics Arts);(value,>,53.480636);(variation,=,85.274819);(date,22.2.2023)}
+{(id,470);(company, Amazon);(value,>=,54.643391);(variation,<=,79.671621);(date,1.6.2018)}
+{(id,471);(company, Facebook);(value,=,28.547014);(variation,>,79.808954);(date,22.11.2033)}
+{(id,472);(company, SAP);(value,>,33.777886);(variation,>,99.679556);(date,11.8.2014)}
+{(id,473);(company, Zara);(value,=,23.249001);(variation,<=,77.184362);(date,28.7.2047)}
+{(id,474);(company, Microsoft);(value,<=,7.864620);(variation,<=,47.190771);(date,5.4.2046)}
+{(id,475);(company, Acer);(value,<=,7.696768);(variation,>,2.066103);(date,15.8.2021)}
+{(id,476);(company, Intel);(value,=,90.661336);(variation,=,39.741203);(date,16.7.2024)}
+
+
+---Subscriptions---
+
+{(id,477);(value,>,,20.722068);(variantion,>,53.135777);}
+{(id,478);(comapny,>=,Acer);}
+{(id,479);(comapny,=,Nvidia);(variantion,>=,75.865963);}
+{(id,480);(comapny,>=,Sharp);(variantion,=,18.024232);}
+{(id,481);(variantion,>=,47.209082);}
+{(id,482);(comapny,<=,Ubisoft);(value,>,,19.949950);}
+{(id,483);(value,>,,37.522507);}
+{(id,484);(comapny,>,Nokia);(value,>,,56.889554);}
+{(id,486);(comapny,<=,Cosmote);(variantion,<=,27.381207);}
+{(id,487);(variantion,=,8.990753);}
+{(id,488);(comapny,<=,Amazon);(value,>,,97.222816);(variantion,=,10.660115);}
+{(id,489);(value,>,,25.815607);(variantion,<=,96.670431);}
+{(id,490);(comapny,>=,Zeiss);(value,>,,37.495041);(variantion,>=,31.327250);}
+{(id,491);(comapny,>,Telekom);(variantion,<=,22.852260);}
+{(id,492);(comapny,<=,Acer);(value,>,,24.079104);}
+{(id,494);(comapny,>=,Mercedes);}
+{(id,495);(value,>,,73.036897);(variantion,>,83.620716);}
+{(id,496);(comapny,>,Samsung);}
+{(id,497);(comapny,>=,Mercedes);(value,>,,23.957030);}
+{(id,498);(comapny,<=,Asus);(variantion,=,37.214270);}
+{(id,499);(variantion,>=,91.988891);}
+{(id,500);(variantion,=,20.343638);}
+{(id,501);(comapny,<=,Ferrari);}
+{(id,503);(comapny,<=,Nokia);(variantion,>,25.074007);}
+{(id,504);(comapny,=,Ubisoft);}
+{(id,505);(variantion,<=,10.153508);}
+{(id,506);(value,>,,82.192450);}
+{(id,509);(comapny,>=,SAP);(value,>,,68.370617);(variantion,<=,97.650075);}
+{(id,510);(comapny,<=,Microsoft);(variantion,>,72.933134);}
+{(id,511);(comapny,>,Siemens);(value,>,,7.364116);}
+{(id,512);(variantion,>,37.498093);}
+{(id,513);(comapny,=,Orange);(value,>,,59.993286);}
+{(id,514);(variantion,<=,34.589679);}
+{(id,515);(comapny,>,Ferrari);(value,>,,20.929594);}
+{(id,517);(comapny,=,AMD);(variantion,=,78.572954);}
+{(id,518);(comapny,=,Asus);(value,>,,15.219581);}
+{(id,519);(value,>,,55.061495);(variantion,>,37.220374);}
+{(id,520);(value,>,,40.946684);}
+{(id,521);(comapny,<=,Mercedes);(value,>,,12.305063);}
+{(id,522);(value,>,,49.031037);}
+{(id,523);(comapny,>,Mercedes);(variantion,>,65.782647);}
+{(id,524);(comapny,=,VW);(value,>,,33.079012);}
+{(id,525);(comapny,>=,Electionics Arts);}
+{(id,526);(value,>,,3.775140);(variantion,>=,73.281045);}
+{(id,527);(value,>,,72.484512);}
+{(id,528);(comapny,<=,Mercedes);}
+{(id,530);(variantion,>=,91.134373);}
+{(id,531);(comapny,=,Mercedes);(value,>,,53.953673);}
+{(id,532);(comapny,>=,AOL);}
+{(id,533);(comapny,>=,Blizzard);(value,>,,97.506638);}
+{(id,534);(value,>,,75.576037);(variantion,<=,97.882015);}
+{(id,535);(comapny,=,Asus);}
+{(id,536);(variantion,>,8.603168);}
+{(id,537);(variantion,>=,54.759362);}
+{(id,538);(comapny,>,Bing);(value,>,,74.523148);}
+{(id,539);(comapny,=,Zeiss);(value,>,,44.398328);(variantion,>=,21.643727);}
+{(id,540);(comapny,>,Bing);(variantion,>,86.089663);}
+{(id,541);(comapny,=,Samsung);}
+{(id,542);(value,>,,54.176458);(variantion,>,56.035035);}
+{(id,543);(comapny,=,VW);(value,>,,45.152135);(variantion,=,25.754570);}
+{(id,544);(value,>,,93.398846);}
+{(id,546);(variantion,<=,20.429090);}
+{(id,547);(comapny,=,Nokia);(value,>,,15.598010);(variantion,=,15.836055);}
+{(id,548);(comapny,>=,Acer);(variantion,=,92.413099);}
+{(id,549);(comapny,>,LG);(value,>,,76.973785);}
+{(id,550);(value,>,,13.217566);}
+{(id,551);(comapny,<=,Telekom);(variantion,<=,3.091525);}
+{(id,552);(comapny,>=,Allview);(variantion,=,79.934080);}
+{(id,553);(comapny,>=,Ubisoft);(value,>,,12.274545);(variantion,>=,13.480026);}
+{(id,554);(comapny,>=,VW);(variantion,<=,66.219062);}
+{(id,555);(comapny,=,Microsoft);}
+{(id,556);(value,>,,36.347545);(variantion,>=,3.149510);}
+{(id,558);(value,>,,11.636708);}
+{(id,559);(variantion,>,24.430067);}
+{(id,560);(variantion,<=,48.890652);}
+{(id,561);(variantion,>=,86.593219);}
+{(id,562);(variantion,=,26.120792);}
+{(id,563);(comapny,>=,Asus);(value,>,,70.155950);}
+{(id,564);(comapny,>,Bing);}
+{(id,565);(variantion,=,85.253456);}
+{(id,566);(comapny,>,Amazon);(value,>,,24.744407);(variantion,=,32.502213);}
+{(id,567);(comapny,<=,AMD);(value,>,,87.893307);}
+{(id,568);(comapny,=,LG);(variantion,>=,54.258858);}
+{(id,570);(value,>,,54.197821);(variantion,<=,19.724113);}
+{(id,571);(comapny,>,Yahoo);(variantion,<=,30.167547);}
+{(id,572);(comapny,>=,Sharp);}
+{(id,575);(variantion,<=,55.720695);}
+{(id,576);(comapny,>,Orange);}
+{(id,579);(comapny,>,Sharp);(variantion,>=,36.649678);}
+{(id,580);(comapny,<=,SwissArmy);}
+{(id,581);(comapny,>,Samsung);}
+{(id,582);(variantion,>=,38.755455);}
+{(id,584);(comapny,=,AOL);(variantion,>,92.822047);}
+{(id,585);(comapny,<=,HP);}
+{(id,586);(comapny,<=,Ubisoft);(variantion,=,95.880001);}
+{(id,587);(comapny,<=,SwissArmy);}
+{(id,589);(variantion,<=,25.318155);}
+{(id,595);(variantion,<=,79.259621);}
+{(id,596);(variantion,>=,42.017884);}
+{(id,600);(variantion,=,66.881314);}
+{(id,601);(variantion,>,56.340220);}
+{(id,602);(variantion,<=,3.991821);}
+{(id,603);(variantion,>=,55.345317);}
+{(id,604);(variantion,<=,35.926389);}
+{(id,609);(variantion,=,91.051973);}
+{(id,610);(variantion,<=,94.738609);}
+{(id,611);(variantion,>,88.753929);}
+{(id,613);(variantion,=,22.602008);}
+{(id,614);(variantion,>=,33.906064);}
+{(id,617);(variantion,>,52.223273);}
+{(id,618);(variantion,<=,75.707266);}
+{(id,621);(variantion,>,66.475417);}
+{(id,624);(variantion,<=,38.389233);}
+{(id,625);(variantion,=,35.740226);}
+{(id,626);(variantion,<=,54.335154);}
+{(id,628);(variantion,=,72.185430);}
+{(id,629);(variantion,=,63.316752);}
+{(id,631);(variantion,<=,14.590899);}
+{(id,632);(variantion,>,14.484085);}
+{(id,633);(variantion,>=,25.882748);}
+{(id,636);(variantion,>,40.064699);}
+{(id,637);(variantion,>=,14.462722);}
+{(id,639);(variantion,>=,51.451155);}
+{(id,642);(variantion,<=,41.126743);}
+{(id,644);(variantion,>,92.825098);}
+{(id,646);(variantion,>,63.380840);}
+{(id,649);(variantion,=,21.900082);}
+{(id,655);(variantion,>=,69.338054);}
+{(id,657);(variantion,<=,28.135014);}
+{(id,659);(variantion,=,44.633320);}
+{(id,660);(variantion,>,18.170721);}
+{(id,661);(variantion,<=,45.762505);}
+{(id,665);(variantion,>=,24.307993);}
+{(id,668);(variantion,=,79.641102);}
+{(id,669);(variantion,>,92.306284);}
+{(id,670);(variantion,>=,84.560686);}
+{(id,671);(variantion,<=,11.618397);}
+{(id,672);(variantion,>,63.438826);}
+{(id,674);(variantion,<=,19.333476);}
+{(id,675);(variantion,=,32.157353);}
+{(id,678);(variantion,=,41.810358);}
+{(id,680);(variantion,>,58.714560);}
+{(id,685);(variantion,>=,5.032502);}
